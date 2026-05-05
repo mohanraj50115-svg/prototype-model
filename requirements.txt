@@ -1,7 +1,7 @@
-streamlit==1.35.0
-torch==2.2.2
-torchvision==0.17.2
-timm==0.9.12
-numpy==1.26.4
-pillow==10.3.0
-plotly==5.22.0
+streamlit
+numpy
+pillow
+plotly
+timm
+torch
+torchvision
