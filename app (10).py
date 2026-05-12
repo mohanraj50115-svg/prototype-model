@@ -1,6 +1,6 @@
 
 """
-🧬 Mr. Mohan Karnan - Structural Biologist AI Platform
+Mr. Mohan Karnan - Structural Biologist AI Platform
 PhD Scholar | Biotechnologist | Molecular Biologist
 Cancer Detection CNN | Bio-AI Hub 2026 | Genome Diagnostics
 """
