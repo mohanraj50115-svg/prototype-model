@@ -240,7 +240,7 @@ def render_contact():
     st.header("📞 Contact")
 
     st.write("""
-Dr. Mohan Karnan
+Mr. Mohan Karnan
 PhD Structural Biology
 📧 Mohanraj50115@gmail.com
 📱 +91-9361245583
